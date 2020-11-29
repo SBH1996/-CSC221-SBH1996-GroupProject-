@@ -8,4 +8,4 @@ Project Description: This program will scrape a webpage for data and store it in
 Webscraped URL: 
 
 Collaborators:
-
+- Fozeya Chowdhury Accepted 
