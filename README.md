@@ -3,10 +3,9 @@ Web Scraping Project for CSC221 2020FA
 
 Owner: Seth Butler-Hargett sbutlerhargett@my.waketech.edu
 
-Project Description: This program will scrape a webpage for data and store it in a dataframe. The data will then be used to generate a graph.
+Project Description: This program will scrape North Carolina's climate data from it's wiki page. The data will then be used to generate a graph of the high and low temperatures.
 
-Webscraped URL: 
-
+Webscraped URL: Wiki page for WA
 Collaborators:
 - Fozeya Chowdhury Accepted 
 - Kent Butler Accepted
